@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoanganndev&label=Profile%20views&color=0e75b6&style=flat" alt="hoanganndev" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- ✍ I'm a student of: [University of Information Technology](https://www.uit.edu.vn) (UIT).
+- ✍ I'm a student at [University of Information Technology](https://www.uit.edu.vn) (UIT).
 - 🌱 I’m currently learning **NodeJS(ExpressJS), ReactJS**
 - 💬 Ask me about **RESTful API, SERN (SQL, Express.js, React.js, Node.js)**
 - 📫 How to reach me **hoangann.dev@gmail.com**
