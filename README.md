@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hoàng Ân</h1>
-<div align="center"><i>You can call me Marcus 🥰</i></div>
+ <p align="center">
+  <img src="https://img.shields.io/badge/Age-21-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Application-red" />
+  <img src="https://img.shields.io/badge/Languages-English%20-yellow" />
+</p>
+<div align="center"><i>" You can call me Marcus 🥰 "</i></div>
 <h3 align="center">A passionate web developer from Vietnam</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoanganndev&label=Profile%20views&color=0e75b6&style=flat" alt="hoanganndev" /> </p>
@@ -69,6 +74,11 @@
 </div>
 
 <div align="center">
-<b><i>RANDOM DEV JOKE</i></b><br>
+<b><i>RANDOM DEV JOKE</i></b><br></b><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 </div>
+
+
+<p  align="center">
+<img align="center" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+</p>
