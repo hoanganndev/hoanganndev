@@ -1,8 +1,8 @@
 <div align="center">
-<img align="center" alt="coding" width="100%" src="images/background.gif">
+<img align="center" alt="coding" src="images/background.gif">
 </div>
 <h1 align="center">Hi 👋, I'm Hoàng Ân</h1>
- <p align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/Age-21-brightgreen" />
   <img src="https://img.shields.io/badge/Focus-Web%20Application-red" />
   <img src="https://img.shields.io/badge/Languages-English%20-yellow" />
