@@ -1,4 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+<div align="center">
+<img align="center" alt="coding" width="100%" src="images/background.gif">
+</div>
 <h1 align="center">Hi 👋, I'm Hoàng Ân</h1>
  <p align="center">
   <img src="https://img.shields.io/badge/Age-21-brightgreen" />
