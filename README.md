@@ -3,7 +3,6 @@
 </div>
 <h1 align="center">Hi 👋, I'm Hoàng Ân</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-21-brightgreen" />
   <img src="https://img.shields.io/badge/Focus-Web%20Application-red" />
   <img src="https://img.shields.io/badge/Languages-English%20-yellow" />
 </p>
