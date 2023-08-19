@@ -7,15 +7,17 @@
   <img src="https://img.shields.io/badge/Languages-English%20-yellow" />
 </p>
 <div align="center"><i>" You can call me Marcus 🥰 "</i></div>
-<h3 align="center">A passionate web developer from Vietnam</h3>
+<h3 align="center">A software engineer from Vietnam</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoanganndev&label=Profile%20views&color=0e75b6&style=flat" alt="hoanganndev" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- ✍ I'm a student at [University of Information Technology](https://www.uit.edu.vn) (UIT).
-- 🌱 I’m currently learning **NodeJS(ExpressJS), ReactJS**
-- 💬 Ask me about **RESTful API, SERN (SQL, Express.js, React.js, Node.js)**
+- ✍ I used to study at [University of Information Technology](https://www.uit.edu.vn) (UIT).
+
+- 🌱 I’m currently learning **Devops**
+- 💬 Ask me about **Java, Javascript, Typescript and related technologies.**
 - 📫 How to reach me **hoangann.dev@gmail.com**
+- 💬 [My Linkedin](https://www.linkedin.com/in/hoang-an).
 - ⚡ Fun fact **I am Funny**
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me 🤝
