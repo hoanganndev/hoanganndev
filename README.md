@@ -14,8 +14,8 @@
 
 - ✍ I used to study at [University of Information Technology](https://www.uit.edu.vn) (UIT).
 
-- 🌱 I’m currently learning **Devops**
-- 💬 Ask me about **Java, Javascript, Typescript and related technologies.**
+- 🌱 Currently I am a **software engineer**
+- 💬 Ask me about **Java, Go, Javascript and related technologies.**
 - 📫 How to reach me **hoangann.dev@gmail.com**
 - 💬 [My Linkedin](https://www.linkedin.com/in/hoang-an).
 - ⚡ Fun fact **I am Funny**
@@ -29,7 +29,6 @@
 	<a href="https://instagram.com/_h.an._"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></p>
 
 <div align="center"> 
   
@@ -38,7 +37,7 @@
 </div>
 
 <div align="center">
-<b><i>RANDOM DEV JOKE</i></b><br></b><br>
+<b><i>Thank you for visiting my Github 👻👻👻</i></b><br></b><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 </div>
 
