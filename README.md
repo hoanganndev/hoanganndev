@@ -31,46 +31,6 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></p>
 
-
-## 🚀 Programming Languages:
-<p align="center">
-	<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-	<img src="https://img.icons8.com/color/48/000000/typescript.png"/>
-	<img src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/>
-	<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-</p>
-
-## 🚀 Web Development:
-<p align="center">
-	<img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
-	<img src="https://img.icons8.com/plasticine/48/000000/react.png"/>
-	<img src="https://img.icons8.com/color/48/000000/redux.png"/>
-	<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-	<img src="https://img.icons8.com/dusk/45/000000/babel.png"/>
-	<img src="https://img.icons8.com/color/48/000000/sass.png"/>
-	<img src="https://img.icons8.com/color/48/000000/css3.png"/>
-	<img src="https://img.icons8.com/color/48/000000/html-5--v2.png"/>
-</p>
-
-## 🚀 Database and other tools:
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-</p>
-
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></p>
-
-<p align="center">&nbsp;<img   src="https://github-readme-stats.vercel.app/api?username=hoanganndev&show_icons=true&locale=en" alt="hoanganndev" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoanganndev&" alt="hoanganndev" /></p>
-
-
-
 <div align="center"> 
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
