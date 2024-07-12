@@ -1,13 +1,41 @@
 <div align="center">
 <img align="center" alt="coding" src="images/background.gif">
 </div>
-<h1 align="center">Hi 👋, I'm Hoàng Ân</h1>
+<h1 align="center">Hi 👋, I'm Hoàng Ân <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Web%20Application-red" />
   <img src="https://img.shields.io/badge/Languages-English%20-yellow" />
 </p>
-<div align="center"><i>" You can call me Marcus 🥰 "</i></div>
+<div align="center"><i>" You can call me Marcus"</i></div>
 <h3 align="center">A software engineer from Vietnam</h3>
+
+
+<h3 align="center">🔥 Some technologies I have worked on! 🔥</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk&logoColor=red"/>
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/-Go-black?style=flat-squar[README.md](..%2F..%2F..%2F..%2F..%2FDownloads%2Fhoanganndev%2FREADME.md)e&logo=go&logoColor=blue"/>
+<img src="https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=spring&logoColor=green"/>
+<img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js&logoColor=green"/>
+<img src="https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=Express.js"/>
+<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/-Gin-black?style=flat-square&logo=go&logoColor=blue"/>
+<img src="https://img.shields.io/badge/-Oracle-black?style=flat-square&logo=oracle&logoColor=red"/>
+<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=blue"/>
+<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins&logoColor=red"/>
+<img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&logoColor=blue"/>
+<img src="https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes&logoColor=blue"/>
+<img src="https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=terraform&logoColor=7A42B8"/>
+<img src="https://img.shields.io/badge/-Ansible-black?style=flat-square&logo=ansible&logoColor=red"/>
+<img src="https://img.shields.io/badge/-Prometheus-black?style=flat-square&logo=prometheus&logoColor=E6522C"/>
+<img src="https://img.shields.io/badge/-Grafana-black?style=flat-square&logo=grafana&logoColor=F46800"/>
+<img src="https://img.shields.io/badge/-CircleCI-black?style=flat-square&logo=circleci&logoColor=blue"/>
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/-GitLab%20CI-black?style=flat-square&logo=gitlab&logoColor=red"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+</p>
+
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoanganndev&label=Profile%20views&color=0e75b6&style=flat" alt="hoanganndev" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -30,11 +58,20 @@
 </p>
 
 
-<div align="center"> 
-  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 <div align="center">
 <b><i>Thank you for visiting my Github 👻👻👻</i></b><br></b><br>
