@@ -9,8 +9,10 @@
 <div align="center"><i>" You can call me Marcus"</i></div>
 <h3 align="center">A software engineer from Vietnam</h3>
 
+<h2 align="center"></h2>
 
-<h3 align="center">🔥 Some technologies I have worked on! 🔥</h3>
+
+<h3 align="center">🔥Technology Stack🔥 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk&logoColor=red"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=yellow"/>
