@@ -1,5 +1,6 @@
 <div align="center">
-<img align="center" alt="coding" src="images/background.gif">
+<!-- <img align="center" alt="coding" src="images/background.gif"> -->
+<img align="center" alt="coding" src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif">
 </div>
 <h1 align="center">Hi 👋, I'm Hoàng Ân <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <p align="center">
