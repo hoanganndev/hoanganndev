@@ -1,7 +1,7 @@
 <div align="center">
 <img align="center" alt="coding" src="images/background.gif">
-<!-- <img align="center" alt="coding" src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif">
-</div> -->
+<!-- <img align="center" alt="coding" src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif"> -->
+</div> 
 <h1 align="center">Hi 👋, I'm Hoàng Ân <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Web%20Application-red" />
@@ -44,7 +44,6 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - ✍ I used to study at [University of Information Technology](https://www.uit.edu.vn) (UIT).
-
 - 🌱 Currently I am a **software engineer**
 - 💬 Ask me about **Java, Go, Javascript and related technologies.**
 - 📫 How to reach me **hoangann.dev@gmail.com**
